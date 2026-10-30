@@ -7,3 +7,7 @@ Write a solution to report the first name, last name, city, and state of each pe
 Write a solution to calculate the number of unique subjects each teacher teaches in the university.
 1757. Recyclable and Low Fat Products
 Write a solution to find the ids of products that are both low fat and recyclable.
+584. Find Customer Referee
+Find the names of the customer that are either:
+referred by any customer with id != 2.
+not referred by any customer.
