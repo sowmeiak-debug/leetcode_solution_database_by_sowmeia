@@ -11,3 +11,5 @@ Write a solution to find the ids of products that are both low fat and recyclabl
 Find the names of the customer that are either:
 referred by any customer with id != 2.
 not referred by any customer.
+181. Employees Earning More Than Their Managers
+Write a solution to find the employees who earn more than their managers.
